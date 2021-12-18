@@ -1,16 +1,7 @@
-<strong>----------------------------------------------------------------------------------------------------</strong><br>
-<strong>------------------------------------👋 Hi, I’m Juan pablo Roa---------------------------------------</strong><br> 
-<strong>Commonly known as @jpabloroa, and I want to welcome you to my repository.</strong><br>
-<strong>----------------------------------------------------------------------------------------------------</strong><br>
+<h1>My GitHub Repository</h1>
 
-I´m an economics student who one day suddenly in his normal Colombian life, discovered his true passion... Software development!
+I'm Juan Pablo, an economics student and passionate software developer 👨‍💻 with over 1 year of experience developing and implementing web applications.
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h4>Feel comfortable browsing my projects, they have been developed to solve a particular problem.</h4>
 
-<!---
-jpabloroa/jpabloroa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h4>Take the time to read the <strong> README.md </strong> file found in each project to understand the problem you are trying to solve, as well as its scope and details of how it works.</h4> 
