@@ -5,7 +5,7 @@ I'm Juan Pablo, an economics student and passionate software developer 👨‍�
 </p>
 <hr>
 
-<h3><a href="https://github.com/jpabloroa/jpabloroa.github.io#readme">About me</a></h3>
+<h4><a href="https://github.com/jpabloroa/jpabloroa.github.io#readme">About me</a></h4>
 
 <hr>
   
