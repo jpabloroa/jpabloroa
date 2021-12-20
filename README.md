@@ -10,4 +10,6 @@ I'm Juan Pablo, an economics student and passionate software developer 👨‍�
 
 <hr>
 
-<h3><a href="">About me</a></h3>
+<h3><a href="https://github.com/jpabloroa/jpabloroa.github.io#readme">About me</a></h3>
+
+<hr>
