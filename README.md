@@ -1,42 +1,48 @@
 # My GitHub Repository
 
-I'm an economics student and a passionate software developer 👨‍💻 with more than 4 years of experience developing and implementing web applications.
+I'm an Economics student with a strong passion for **data analytics**, **machine learning**, and the development of intelligent, data-driven applications. With over 6 years of combined experience in software development and applied analytics, I specialize in transforming raw data into actionable insights and deploying predictive models to solve real-world problems.
 
-## About my work
+## About My Work
 
-My work is based on three main pillars
-- Follow design patterns at the time of development
-- Clean, efficient code, as well as properly documented
-- Secure systems and applications that protect the integrity of the information as well as of the users, without losing practicality in its use
+My work is driven by the following principles:
 
-## My skills
+- **Analytical rigor**: extracting meaningful insights from data through structured methodologies  
+- **Model precision**: building, training, and evaluating machine learning models with performance in mind  
+- **Data integrity**: ensuring the accuracy, consistency, and security of data pipelines and processes  
 
-- Frontend development
-  - HTML5
-  - CSS3
-  - Javascript ES6
-- Backend development
-  - PHP with Laravel 10
-  - Node.js with React, Angular 6 and Next.js
-  - C-Sharp (C#) with ASP.NET Core and ASP.NET Framework (4.7.2)
-- Data Analysis
-  - Python (scikit-learn and Tensorflow)
-  - DAX
-  - Power Query M
-  - Qlikview Script
-- Cloud computing
-  - Azure Cloud
-  - Google Cloud 
-- Microsoft Power Plattform
-  - Power BI
-  - Power Automate
-  - Power Virtual Agents
-  - Power Apps 
+## My Core Skills
+
+### Machine Learning & AI
+- Experience building and deploying deep learning models with **TensorFlow**  
+- Specialization in **time series forecasting** using **LSTM** and **GRU** networks  
+- Developed multi-layer neural network architectures using **CNNs** and **RNNs**  
+- Skilled in working with **embeddings**, sequential data, and custom feature engineering  
+- Proficient with **MLflow** for model tracking and deployment  
+- Experience with **Azure Machine Learning Studio** for orchestrating ML pipelines
+
+### Data Analytics & Visualization
+- **Python** for data wrangling, statistical analysis, and visualization  
+  - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`  
+- **Microsoft Power BI**, **QlikView**, and **Excel** for business intelligence reporting  
+- **DAX** and **Power Query M** for data modeling and transformation  
+- Strong background in **economic and financial data analysis**
+
+### Cloud & Deployment
+- Model hosting and data workflows using **Azure Cloud** and **Google Cloud Platform**  
+- Integration of analytics models with web services and automation tools
+
+### Supporting Skills in Software Development
+- Web technologies: HTML5, CSS3, JavaScript (ES6)  
+- Backend frameworks: PHP (Laravel 10), C# (.NET), Node.js (React, Angular, Next.js)  
 
 ## Links
-[Linkedin](https://www.linkedin.com/in/jpabloroa)
-[About me](https://github.com/jpabloroa/jpabloroa.github.io#readme)
 
-## Feel comfortable browsing my projects, they have been developed to solve a particular problem.</code>
+- [LinkedIn](https://www.linkedin.com/in/jpabloroa)  
+- [About Me](https://github.com/jpabloroa/jpabloroa.github.io#readme)
 
-<h4>Take the time to read the <strong> README.md </strong> file found in each project to understand the problem you are trying to solve, as well as its scope and details of how it works.</h4> 
+---
+
+## Explore My Projects
+
+Each project reflects a real analytical challenge or opportunity.  
+Please take a moment to review the **README.md** file in each repository for context, methodology, and implementation details.
