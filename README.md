@@ -1,6 +1,6 @@
 # My GitHub Repository
 
-I'm an Economics student with a strong passion for **data analytics**, **machine learning**, and the development of intelligent, data-driven applications. With over 6 years of combined experience in software development and applied analytics, I specialize in transforming raw data into actionable insights and deploying predictive models to solve real-world problems.
+I'm an Economist with a strong passion for **data analytics**, **machine learning**, and the development of intelligent, data-driven applications. With over 6 years of combined experience in software development and applied analytics, I specialize in transforming raw data into actionable insights and deploying predictive models to solve real-world problems.
 
 ## About My Work
 
